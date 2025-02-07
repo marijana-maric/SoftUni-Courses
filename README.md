@@ -1,1 +1,1 @@
-# SoftUni-Courses
+# SoftUni-Courses.Ovo je prvi primer za koriscenje Git-a.
